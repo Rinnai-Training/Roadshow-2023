@@ -25,3 +25,8 @@ we will not be liable for any damage, loss or expenses, or indirect losses or co
 If the New Zealand Consumer Guarantees Act 1993 applies, you may have rights or remedies which are not excluded nor limited by the above. If you are using this Site or its content for business purposes, the above exclusions and limits will apply and the New Zealand Consumer Guarantees Act 1993 will not apply.
 
 Although we have tried to ensure the content on this Site is current, accurate and complete, we do not guarantee that such content will be current, accurate or complete when you access it. We will take action, within a reasonable time, to correct any error or inaccuracy which is brought to our attention.
+
+
+**Amendments**
+
+We may amend these terms of use from time to time so you should check and read these terms of use regularly. By continuing to use this Site after any such amendment, you are deemed to have agreed to the amended terms of use.
